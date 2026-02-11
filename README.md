@@ -45,7 +45,7 @@ The Smart Email Assistant allows users to:
 | Layer           | Technology |
 |----------------|------------|
 | Backend        | Java, Spring Boot |
-| AI Integration | Spring AI | Gemini AI |
+| AI Integration | Spring AI, Gemini AI |
 | Build Tool     | Maven |
 | Deployment     | Optional (Heroku / Cloud) |
 
