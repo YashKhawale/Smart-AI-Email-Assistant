@@ -1,12 +1,11 @@
  Smart Email Assistant 📧🤖  
 **Built using Spring Boot & Spring AI**
 
-This repository contains a project demonstrating **how to build an AI-powered Smart Email Assistant** using **Spring Boot** and **Spring AI** that can help automate and generate email replies — a great project to showcase on your resume or portfolio. :contentReference[oaicite:0]{index=0}
+The Smart Email Assistant is an AI-powered application built using **Spring Boot** and **Spring AI** that helps users generate intelligent and context-aware email replies. It takes the original email content as input and produces a well-structured response based on the selected tone (such as professional, friendly, or formal).
 
----
+The project demonstrates how to integrate Large Language Models (LLMs) into a backend application using REST APIs. It showcases practical implementation of AI in real-world scenarios and highlights skills in **Java**, **Spring Boot architecture**, and **AI integration**.
 
-
-Watch the video here: https://youtu.be/hpiO9CKkKfU
+This project is ideal for enhancing a developer’s portfolio, as it combines backend development with modern AI capabilities in a useful and scalable solution.
 
 ---
 
