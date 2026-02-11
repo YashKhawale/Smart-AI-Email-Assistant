@@ -2,7 +2,7 @@
  
 **Built using Spring Boot & Spring AI**
 
-The Smart Email Assistant is an AI-powered application built using **Spring Boot** and **Spring AI** that helps users generate intelligent and context-aware email replies. It takes the original email content as input and produces a well-structured response based on the selected tone (such as professional, friendly, or formal).
+The Smart Email Assistant is an AI-powered application implemented in **Chrome extension**, built using **Spring Boot** and **Spring AI** that helps users generate intelligent and context-aware email replies. It takes the original email content as input and produces a well-structured response based on the selected tone (such as professional, friendly, or formal).
 
 The project demonstrates how to integrate Large Language Models (LLMs) into a backend application using REST APIs. It showcases practical implementation of AI in real-world scenarios and highlights skills in **Java**, **Spring Boot architecture**, and **AI integration**.
 
@@ -16,7 +16,7 @@ The **hello-world-ext** is a dummy chrome extension developed to learn the basic
 ## 🚀 Project Overview
 The Smart Email Assistant allows users to:
 
-- 🧠 Generate AI-powered email replies
+- 🧠 Generate AI-powered email replies by simply clicking **AI Reply** button on compose section of Gmail
 - ✍️ Customize tone (Professional, Casual, Friendly, etc.)
 - ⚡ Use Spring AI to integrate LLM capabilities
 - 💼 Showcase real-world AI + backend integration skills
@@ -26,6 +26,8 @@ The Smart Email Assistant allows users to:
 ## 🎯 Features
 
 - AI-based email reply generation
+
+- Chrome extension made specifically for Gmail
 
 - Tone customization
 
