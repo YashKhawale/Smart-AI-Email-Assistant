@@ -69,15 +69,3 @@ curl -X POST "http://localhost:8080/api/email/generate" \
            "tone": "professional"
          }'
          
-📂 Project Structure
-
-smart-email-assistant/
-├── src/
-│   ├── main/
-│   │   ├── java/…
-│   │   └── resources/
-│   │       └── application.yml
-├── .gitignore
-├── pom.xml
-├── README.md
-└── LICENSE
